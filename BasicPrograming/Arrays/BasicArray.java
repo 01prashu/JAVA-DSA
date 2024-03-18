@@ -37,6 +37,11 @@ public class BasicArray {
         {
             System.out.println(Arrays.toString(arr));
         }
+        int [] arr4 = new int[4];
+        for(int i = 0;i<arr4.length;i++)
+        {
+            System.out.println(arr4[i]);
+        }
     }
 
 }
